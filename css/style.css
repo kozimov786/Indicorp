@@ -499,7 +499,7 @@ form{
     cursor: pointer;
 }
 .blue-line{ 
-    width: 1440px;
+    max-width: 1440px;
     position: absolute;
     top:120px;
     left: -95px;
